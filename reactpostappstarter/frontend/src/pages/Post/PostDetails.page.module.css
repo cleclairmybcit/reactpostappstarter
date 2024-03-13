@@ -1,0 +1,14 @@
+.group {
+  flex: 1;
+  align-self: start; 
+}
+
+.columns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image {
+  max-width: 70%;
+  max-height: auto;
+}
